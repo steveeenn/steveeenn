@@ -1,6 +1,6 @@
 # Hi, I'm Steve 👋
 
-I build machine learning applications and web interfaces. Here are two projects from my public GitHub work.
+I build machine learning applications and web interfaces. Here are selected projects I built or contributed to.
 
 ## Selected projects
 
@@ -10,9 +10,12 @@ A Python/FastAPI project exploring model serving with PyTorch. Its API includes 
 **[HiveMind](https://github.com/steveeenn/grid-hackathon-HiveMind)**  
 A hackathon dashboard built with React and Vite. It includes grid and facility views; my contributions include HiveMind branding and data center dashboard updates.
 
+**[GenRoot](https://github.com/mliu98/genRoot)** · Team contributor  
+An AI-powered platform for preserving family stories through guided recording, transcription, translation, summaries, and a cultural heritage map. Built with Next.js, React, TypeScript, and FastAPI.
+
 ## Technologies in these projects
 
-Python · FastAPI · PyTorch · JavaScript · React · Vite · Docker
+Python · FastAPI · PyTorch · TypeScript · JavaScript · React · Next.js · Vite · Docker
 
 ---
 
